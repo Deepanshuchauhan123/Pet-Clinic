@@ -1,0 +1,5 @@
+com\deepanshu\petclinic\model\Owner.class
+com\deepanshu\petclinic\model\PetType.class
+com\deepanshu\petclinic\model\Vet.class
+com\deepanshu\petclinic\model\Pet.class
+com\deepanshu\petclinic\model\Person.class
